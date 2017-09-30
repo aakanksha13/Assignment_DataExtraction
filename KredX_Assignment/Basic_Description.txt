@@ -1,0 +1,9 @@
+In CMD run these commands to convert pdf to text. (Change output file and input file and path names as per requirement. 
+
+pdf2txt.py -o vendor1.txt -t text vendor1.pdf
+pdf2txt.py -o vendor2.txt -t text vendor2.pdf
+pdf2txt.py -o vendor3.txt -t text vendor3.pdf
+pdf2txt.py -o vendor5.txt -t text vendor5.pdf
+
+
+Then Run the Python File to get desired output.
